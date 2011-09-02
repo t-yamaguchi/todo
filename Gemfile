@@ -29,4 +29,6 @@ gem 'sqlite3'
 group :development, :test do
   gem 'webrat'
   gem 'capistrano'
+  gem 'capistrano-ext'
+  gem 'capistrano_colors'
 end
